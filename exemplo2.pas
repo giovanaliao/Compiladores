@@ -12,4 +12,4 @@ begin
     elif
         set maior to num_2;
     write(maior) # imprime o maior valor
-end. 
+end.
