@@ -1,4 +1,4 @@
-```markdown
+
 # README - Compilador Fase 1
 
 ## Informações Gerais
