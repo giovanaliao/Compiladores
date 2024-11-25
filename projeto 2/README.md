@@ -1,5 +1,3 @@
-Segue o README atualizado com a inclusão da implementação do código MEPA (Máquina de Execução Para o Aprendizado):
-
 ```markdown
 # README - Compilador Fase 1
 
